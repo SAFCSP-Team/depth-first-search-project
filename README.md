@@ -43,7 +43,7 @@ E -> F
 
 ```java
 
-public class Vertex {
+class Vertex {
 
         char data;
 
@@ -62,7 +62,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Stack;
 
-public class Graph {
+class Graph {
 
     public ArrayList<LinkedList<Vertex>> vertices;
 
@@ -99,6 +99,8 @@ public class Graph {
 
      /* Add your code here */ 
 
+
+}
 
 }
 ```
